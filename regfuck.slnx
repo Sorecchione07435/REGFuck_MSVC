@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="regfuck.vcxproj" Id="38b156a1-ad68-4b34-9ff0-6b6926e54e32" />
+</Solution>
