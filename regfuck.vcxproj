@@ -176,10 +176,10 @@
     <Image Include="fuck.png" />
     <Image Include="hack.gif" />
     <Image Include="matrix.gif" />
-    <Image Include="REGFuck-master\RegFuck\regfuck.ico" />
     <Image Include="regfuck.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
+
 </Project>
