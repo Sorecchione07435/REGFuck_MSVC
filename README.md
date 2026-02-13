@@ -41,7 +41,7 @@ For **security reasons**, **NO precompiled binaries are distributed**.
 
 | Target OS              | Toolset                    | Recommended SDK    |
 | ---------------------- | -------------------------- | ------------------ |
-| Windows XP / Vista     | **MSVC v140_xp / v141_xp** | **Windows 7 SDK**  |
+| Windows XP / Vista     | **MSVC v140_xp / v141_xp** | **Windows 7/8.1 SDK**  |
 | Windows 7 → Windows 11 | **MSVC v143**              | **Windows 10 SDK** |
 
 > ⚠️ XP support requires installing the **XP toolset** via Visual Studio Installer.
